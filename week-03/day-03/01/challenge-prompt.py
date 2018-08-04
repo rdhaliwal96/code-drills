@@ -18,11 +18,12 @@ meaning that any code commented out is ignored.
 # Create a variable named subject with no value:
 # Example: hobby = None
 
+subject = ""
 
 # Assign a value of "Programmers" to the variable subject
 # Example: hobby = "problem solving"
 
-
+subject = "problem solving"
 
 # Create a variable, first_name, and assign it a value of an empty string.
 # Example: empty_string = ""
